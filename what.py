@@ -1,6 +1,7 @@
 # download_bing.py
 #install bing_image_downloader
 #python3 what.py "kucing lucu" 10
+#author : Zakraa
 
 from bing_image_downloader import downloader
 import sys
